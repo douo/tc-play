@@ -58,6 +58,7 @@
 #include "tcplay.h"
 #include "humanize.h"
 
+#include <sys/sysmacros.h>
 
 /* XXX TODO:
  *  - LRW-benbi support? needs further work in dm-crypt and even opencrypto
